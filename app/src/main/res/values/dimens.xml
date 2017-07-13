@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--Cropper-->
+    <dimen name="text_size_m">20sp</dimen>
+    <dimen name="text_size_s">16sp</dimen>
+    <dimen name="button_height">48dp</dimen>
+
+    <!--for text-->
+    <dimen name="t14">14sp</dimen>
+    <dimen name="t16">16sp</dimen>
+    <dimen name="t18">18sp</dimen>
+    <dimen name="t20">20sp</dimen>
+
+    <!--for views-->
+    <dimen name="v14">14dp</dimen>
+    <dimen name="v16">16dp</dimen>
+    <dimen name="v18">18dp</dimen>
+    <dimen name="v20">20dp</dimen>
+
+</resources>

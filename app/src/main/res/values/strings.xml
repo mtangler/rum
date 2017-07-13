@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RUM</string>
+
+    <!--Cropper-->
+
+    <!--Procedural-->
+    <string name="loading">Loading</string>
+    <string name="under_development">Under Development</string>
+
+</resources>
