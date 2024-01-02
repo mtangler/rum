@@ -1,7 +1,7 @@
 
 ## Rum - Android Apps Framework
 
-Develope android apps rapidly while drinking rum, This framework will take care of most of the things for you so you can focus on drinking while working. 
+Develope android apps rapidly while drinking rum, This framework will take care of most of the things for you
 Wrapper classes around third party API can be changed to suit your taste.
 Enjoy !
 
